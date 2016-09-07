@@ -1,6 +1,6 @@
 <?
 
-	namespace spbitec\vetassist;
+	namespace vetassist;
    
    class schedule{
 		static function getList($clId, $userId){

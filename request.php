@@ -1,6 +1,6 @@
 <?
 
-	namespace spbitec\vetassist;
+	namespace vetassist;
    
    class request{
 		static function get($a){
