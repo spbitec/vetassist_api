@@ -1,0 +1,20 @@
+{
+    "name": "spbitec/vetassist_api",
+    "type": "library",
+    "description": "spbitec.ru vetassist api",
+    "keywords": [],
+    "homepage": "https://spbitec.ru",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "VI",
+            "email": "vi@spbitec.ru"
+        },
+        {
+            "name": "VS",
+           "email": "vs@spbitec.ru"        }
+    ],
+    "autoload": {
+        "psr-4": {"vetassist\\": "/"}
+    }
+}
